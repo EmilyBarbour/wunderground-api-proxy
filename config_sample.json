@@ -1,0 +1,8 @@
+{
+  "wundergroundKey": "",
+  "host": "localhost",
+  "port": 3000,
+  "redisHost": "127.0.0.1",
+  "redisPort": 6379,
+  "redisPassword": ""
+}
